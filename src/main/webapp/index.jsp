@@ -38,7 +38,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">LMS</a>
+        <a class="navbar-brand" href="#">LearnSphere</a>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
@@ -72,8 +72,8 @@
     </section>
 
     <footer class="footer">
-        <p>&copy; 2024 Learning Management System | All Rights Reserved</p>
-        <p>Contact us at: akshatraj873@lms.com</p>
+        <p>&copy; 2024 Online Learning Management System | All Rights Reserved</p>
+        <p>Contact us at: priyanshuranjan343@gmail.com</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
