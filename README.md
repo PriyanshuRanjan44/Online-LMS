@@ -4,4 +4,8 @@
 - Java 11
 - Apache Maven
 - MySQL
+#Running the Application
+1. Start your servlet container (e.g., Apache Tomcat).
+2. Access the application:
+   Open your web browser and navigate to http://localhost:8080/user-web-app/
 
