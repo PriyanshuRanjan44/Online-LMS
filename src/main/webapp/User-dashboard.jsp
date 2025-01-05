@@ -9,7 +9,7 @@
 </head>
 <body>
     <header class="dashboard-header">
-        <h1>Welcome to the LMS Dashboard</h1>
+        <h1>Welcome to the EduGenius.io</h1>
         <p id="user-role">Role: <%= session.getAttribute("userRole") != null ? session.getAttribute("userRole") : "Guest" %></p>
     </header>
     <main class="dashboard-container">
@@ -51,7 +51,7 @@
         </section>
     </main>
     <footer class="dashboard-footer">
-        <p>&copy; 2024 LMS. All rights reserved.</p>
+        <p>&copy; 2025 LMS | All rights reserved.</p>
         <a href="/logout" class="logout-btn">Logout</a>
     </footer>
     <script src="JS/Admin-dashboard.js"></script>
