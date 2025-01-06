@@ -51,7 +51,7 @@
         </section>
     </main>
     <footer class="dashboard-footer">
-        <p>&copy; 2024 LMS. All rights reserved.</p>
+        <p>&copy; 2024 LMS | All rights reserved.</p>
         <a href="/logout" class="logout-btn">Logout</a>
     </footer>
     <script src=""></script>
