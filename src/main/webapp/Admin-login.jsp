@@ -22,7 +22,7 @@
     <div class="signin"> 
         <div class="content"> 
           <h2>Admin-login</h2> 
-          <h2>Welcome to my LMS</h2> 
+          <h2>Welcome to the EduGenius.io</h2> 
       
           <form action="adminLogin" method="post" onsubmit="return validateForm()">                
             <div class="form"> 
